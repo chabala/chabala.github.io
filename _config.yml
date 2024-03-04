@@ -1,4 +1,6 @@
 google_analytics: G-CB7P776F76
 webmaster_verifications:
   google: hPbh8KO0jyM2vo6QHU9175a5nFWerUWkPUiqPc-9rEE
-
+remote_theme: chabala/primer@update-google-analytics
+plugins:
+  - jekyll-remote-theme
