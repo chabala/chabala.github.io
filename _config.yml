@@ -4,3 +4,4 @@ webmaster_verifications:
 remote_theme: chabala/primer@update-google-analytics
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
