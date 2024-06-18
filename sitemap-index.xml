@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+   <sitemap>
+      <loc>https://chabala.github.io/sitemap.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://chabala.github.io/brick-control-lab/sitemap.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://chabala.github.io/pi-pico-serial-web-api/sitemap.xml</loc>
+   </sitemap>
+   <sitemap>
+      <loc>https://chabala.github.io/beanshell-examples/sitemap.xml</loc>
+   </sitemap>
+</sitemapindex>
